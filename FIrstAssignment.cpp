@@ -1,11 +1,41 @@
+
 #include <iostream>
 
 using namespace std;
 
 int main() {
-  cout << "Welcome to the wonderful world of C++!" << endl;
-  cout << "This is my first C++ output statement" << endl;
-  cout << "Soon, I will learn how to input data into my program" << endl;
+  
+  cout << "    " << "o" << endl;
+  cout << "   /|\" " << endl;
+  cout << "  *  *" << endl;
+  cout << "   / " << endl;
+  cout << "  /  " << endl;
+  cout << " /   " << endl;
+  cout << "/    " << endl;
+
+  cout << "      " << "o" << endl;
+  cout << "     /|\"" << endl;
+  cout << "    *  *" << endl;
+  cout << "     / " << endl;
+  cout << "    /  " << endl;
+  cout << "   /   " << endl;
+  cout << "  /    " << endl;
+  cout << "       ________" << endl;
+
+  cout << "      / \\" << endl;
+  cout << "     /   \\" << endl;
+  cout << "    /     \\" << endl;
+  cout << "   /       \\" << endl;
+  cout << "  /         \\" << endl;
+  cout << " /           \\" << endl;
+  cout << "/             \\" << endl;
+   cout << "       _______________" << endl;
+  
+   cout << "      |------|" << endl;
+  cout << "      |      |" << endl;
+  cout << "     |      |" << endl;
+  cout << "     |      |" << endl;
+  cout << "      |------|" << endl;
 
   return 0;
 }
